@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: brainasd
+Version: 1.0.0
+Summary: ASD classifiers using EEG data
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: numpy==2.1.3
+Requires-Dist: pandas==2.2.3
+Requires-Dist: matplotlib==3.9.2
+Requires-Dist: mne==1.8.0
+Requires-Dist: scikit-learn==1.5.2
+Requires-Dist: icecream==2.1.3
+Requires-Dist: openpyxl==3.1.5
+Requires-Dist: statsmodels==0.14.4
