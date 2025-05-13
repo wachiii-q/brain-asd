@@ -1,3 +1,11 @@
 /data
 /features
 /crossval
+hc_lengths.txt
+.gitignore
+asd_lengths.txt
+/temp
+/model
+/brainasd.egg-info
+/__pycache__
+*.pyc
