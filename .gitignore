@@ -9,3 +9,5 @@ asd_lengths.txt
 /brainasd.egg-info
 /__pycache__
 *.pyc
+*.sh
+*DS_Store
