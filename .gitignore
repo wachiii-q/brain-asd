@@ -11,3 +11,4 @@ asd_lengths.txt
 *.pyc
 *.sh
 *DS_Store
+/transfer_entropy_analysis
