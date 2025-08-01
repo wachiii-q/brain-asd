@@ -1,0 +1,29 @@
+FIF Epoch Files Duration Report
+============================================================
+Generated on: 2025-07-14 22:16:47
+Directory: /Users/wachiii/Workschii/brain-asd/data/data_adults_eyeopen/epoch30sFiles/hc
+Sampling Rate: 256 Hz
+Total Files: 17
+============================================================
+
+File Name		N Epochs	Duration (minutes)
+------------------------------------------------------------
+H06_EO.fif		23		11.50
+H14_EO.fif		2		1.00
+H16_EO.fif		2		1.00
+H08_EO.fif		2		1.00
+H04_EO.fif		23		11.50
+H12_EO.fif		2		1.00
+H10_EO.fif		2		1.00
+H02_EO.fif		23		11.50
+H07_EO.fif		22		11.00
+H15_EO.fif		2		1.00
+H09_EO.fif		2		1.00
+H17_EO.fif		2		1.00
+H05_EO.fif		24		12.00
+H01_EO.fif		19		9.50
+H13_EO.fif		2		1.00
+H11_EO.fif		2		1.00
+H03_EO.fif		16		8.00
+------------------------------------------------------------
+Total Duration: 85.00 minutes (1.42 hours)
