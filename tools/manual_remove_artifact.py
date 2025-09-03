@@ -7,9 +7,13 @@ import matplotlib.pyplot as plt
 import mne
 from collections import deque
 
+
+
 sampling_rate = 256
-which_save_asd_dir = "/Users/wachiii/Workschii/brain-asd/data/data_children_trimed_5min_3535/trimedData/asd"
-which_save_hc_dir = "/Users/wachiii/Workschii/brain-asd/data/data_children_trimed_5min_3535/trimedData/hc"
+which_save_asd_dir = "/Users/wachiii/Workschii/BCI/ASD/brain-asd/data/data_adult_eyeclose_no_artefacts/trimedData/asd"
+which_save_hc_dir = "/Users/wachiii/Workschii/BCI/ASD/brain-asd/data/data_adult_eyeclose_no_artefacts/trimedData/hc"
+
+
 
 class EEGTrimmer(tk.Tk):
     def __init__(self):
